@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{DAD03C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Server\Entities\Entities.csproj", "{48AD4A9F-F14E-4020-B3AA-364F67C91F13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryContracts", "Server\RepositoryContracts\RepositoryContracts.csproj", "{FC2F25A3-DA41-4078-9990-022DF954B6E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,11 +31,24 @@ Global
 		{48AD4A9F-F14E-4020-B3AA-364F67C91F13}.Release|x64.Build.0 = Release|Any CPU
 		{48AD4A9F-F14E-4020-B3AA-364F67C91F13}.Release|x86.ActiveCfg = Release|Any CPU
 		{48AD4A9F-F14E-4020-B3AA-364F67C91F13}.Release|x86.Build.0 = Release|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Debug|x64.Build.0 = Debug|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Debug|x86.Build.0 = Debug|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Release|x64.ActiveCfg = Release|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Release|x64.Build.0 = Release|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Release|x86.ActiveCfg = Release|Any CPU
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{48AD4A9F-F14E-4020-B3AA-364F67C91F13} = {DAD03CFC-D5FA-AC94-41C7-9ABAB326F09E}
+		{FC2F25A3-DA41-4078-9990-022DF954B6E6} = {DAD03CFC-D5FA-AC94-41C7-9ABAB326F09E}
 	EndGlobalSection
 EndGlobal
