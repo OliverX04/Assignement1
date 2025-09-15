@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InMemoryRepository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a503777d8c2a6fc6b46620d0ad8299767d15805")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9acb6fed5f1d539b032365ccafd885aa3a758c")]
 [assembly: System.Reflection.AssemblyProductAttribute("InMemoryRepository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InMemoryRepository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,7 +7,7 @@ namespace InMemoryRepository;
 public class CommentInMemoryRepository : ICommentRepository
 {
 
-    public List<Comment>? comments { get; set;}
+    public List<Comment>? comments { get; set; } = new List<Comment>();
     public Task<Comment> AddAsync(Comment comment)
     {
         comment.Id = comments.Any()
