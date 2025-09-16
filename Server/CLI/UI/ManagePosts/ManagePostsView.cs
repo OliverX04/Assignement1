@@ -11,7 +11,7 @@ public class ManagePostsView
     private SinglePostView singlePostView;
     private ICommentRepository commentInterface;
 
-    public ManagePostsView(IPostRepository postInterface)
+    public ManagePostsView(IPostRepository postInterface, ICommentRepository commentInterface)
     {
         this.postInterface = postInterface;
         this.createPostView = new CreatePostView(postInterface);

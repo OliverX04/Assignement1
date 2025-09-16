@@ -21,7 +21,7 @@ public class CliApp
         this.commentRepository = commentRepository;
         this.postRepository = postRepository;
         manageUserView = new ManageUserView(userRepository);
-        managePostsView = new ManagePostsView(postRepository);
+        managePostsView = new ManagePostsView(postRepository, commentRepository);
         manageCommentsView = new ManageCommentsView(commentRepository);
     }
 
