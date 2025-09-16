@@ -8,7 +8,7 @@ public class SinglePostView
     public IPostRepository postInterface;
     public ICommentRepository commentInterface;
 
-    public SinglePostView(IPostRepository postInterface)
+    public SinglePostView(IPostRepository postInterface, ICommentRepository commentInterface)
     {
         this.postInterface = postInterface;
         this.commentInterface = commentInterface;

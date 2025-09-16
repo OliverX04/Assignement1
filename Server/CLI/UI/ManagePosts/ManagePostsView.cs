@@ -9,13 +9,15 @@ public class ManagePostsView
     private CreatePostView createPostView;
     private ListPostsView listPostView;
     private SinglePostView singlePostView;
+    private ICommentRepository commentInterface;
 
     public ManagePostsView(IPostRepository postInterface)
     {
         this.postInterface = postInterface;
         this.createPostView = new CreatePostView(postInterface);
         this.listPostView = new ListPostsView(postInterface);
-        singlePostView = new SinglePostView(postInterface);
+        singlePostView = new SinglePostView(postInterface, commentInterface);
+
     }
 
 
