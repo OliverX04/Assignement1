@@ -29,8 +29,8 @@
               "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\InMemoryRepository\\InMemoryRepository.csproj": {
-                "projectPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\InMemoryRepository\\InMemoryRepository.csproj"
+              "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\FileRepositories\\FileRepositories.csproj": {
+                "projectPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\FileRepositories\\FileRepositories.csproj"
               },
               "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\RepositoryContracts\\RepositoryContracts.csproj": {
                 "projectPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\RepositoryContracts\\RepositoryContracts.csproj"
@@ -678,14 +678,14 @@
         }
       }
     },
-    "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\InMemoryRepository\\InMemoryRepository.csproj": {
+    "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\FileRepositories\\FileRepositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\InMemoryRepository\\InMemoryRepository.csproj",
-        "projectName": "InMemoryRepository",
-        "projectPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\InMemoryRepository\\InMemoryRepository.csproj",
+        "projectUniqueName": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\FileRepositories\\FileRepositories.csproj",
+        "projectName": "FileRepositories",
+        "projectPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\FileRepositories\\FileRepositories.csproj",
         "packagesPath": "C:\\Users\\waste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\InMemoryRepository\\obj\\",
+        "outputPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\FileRepositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\waste\\AppData\\Roaming\\NuGet\\NuGet.Config"

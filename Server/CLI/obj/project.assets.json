@@ -12,7 +12,7 @@
           "bin/placeholder/Entities.dll": {}
         }
       },
-      "InMemoryRepository/1.0.0": {
+      "FileRepositories/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
@@ -20,10 +20,10 @@
           "RepositoryContracts": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/InMemoryRepository.dll": {}
+          "bin/placeholder/FileRepositories.dll": {}
         },
         "runtime": {
-          "bin/placeholder/InMemoryRepository.dll": {}
+          "bin/placeholder/FileRepositories.dll": {}
         }
       },
       "RepositoryContracts/1.0.0": {
@@ -47,10 +47,10 @@
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
     },
-    "InMemoryRepository/1.0.0": {
+    "FileRepositories/1.0.0": {
       "type": "project",
-      "path": "../InMemoryRepository/InMemoryRepository.csproj",
-      "msbuildProject": "../InMemoryRepository/InMemoryRepository.csproj"
+      "path": "../FileRepositories/FileRepositories.csproj",
+      "msbuildProject": "../FileRepositories/FileRepositories.csproj"
     },
     "RepositoryContracts/1.0.0": {
       "type": "project",
@@ -61,7 +61,7 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "Entities >= 1.0.0",
-      "InMemoryRepository >= 1.0.0",
+      "FileRepositories >= 1.0.0",
       "RepositoryContracts >= 1.0.0"
     ]
   },
@@ -93,8 +93,8 @@
             "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\InMemoryRepository\\InMemoryRepository.csproj": {
-              "projectPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\InMemoryRepository\\InMemoryRepository.csproj"
+            "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\FileRepositories\\FileRepositories.csproj": {
+              "projectPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\FileRepositories\\FileRepositories.csproj"
             },
             "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\RepositoryContracts\\RepositoryContracts.csproj": {
               "projectPath": "C:\\Users\\waste\\OneDrive\\Documents\\.NET\\Assignement1\\Server\\RepositoryContracts\\RepositoryContracts.csproj"
